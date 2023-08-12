@@ -1,0 +1,4 @@
+Hello Image!
+delete when there is (other) content in this folder.
+added so I can push, and there aren't any naming conflicts later.
+
