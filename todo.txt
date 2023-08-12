@@ -1,0 +1,3 @@
+Research serviceworker for background services.
+Research different tab, and how to know what tab I or the script are on.
+Research how to turn off the script on tabs where it is unneeded 

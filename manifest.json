@@ -1,0 +1,15 @@
+{
+	"manifest_version":3,
+	"name": "Reload This",
+	"version": "0.0.1",
+	"author": "Chad",
+	"content_scripts": [
+   {
+    "js": ["scripts/main.js"],
+	"matches": ["https://*/*"]
+   }
+   ],
+	"action":{
+	"default_popup":"popup/index.html"
+	}
+}
